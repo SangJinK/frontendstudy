@@ -1,0 +1,58 @@
+nav {
+    border-bottom: 2px groove black;
+  
+    display: inline-block;
+    width: 80%;
+}
+.crumbs ol {
+    list-style-type: none;
+
+}
+.crumb {
+    display: inline-block;
+    margin-left: 10px;
+    float: right;
+}
+.logo {
+    display: inline-block;
+}
+
+section{
+    align-items: center;
+    display: flex;
+    
+    
+}
+article{
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    border: 1px solid blue;
+}
+div{
+    width: 80%;
+    height: 550px;
+    border: solid gray;
+    margin-top: 5%;
+    display: inline-block;
+}
+
+footer{
+    margin-top: 5%;
+    border-top: solid gray;
+    width: 80%;
+}
+h4{
+    margin-top: 50px;
+    display: inline;
+}
+aside{
+    display: inline-block;
+    background-color: aquamarine;
+    width: 15%;
+    height: 500px;
+}
+
+
